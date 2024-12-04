@@ -8,7 +8,10 @@
             "type": "iso",
             "metadata": {
                 "uri": "registry.hub.docker.com/jitbase/gateway-builder:0.0.0-bdce649-dev",
-                "displayName": "Gateway builder"
+                "displayName": "Gateway builder",
+                "platforms": [
+                    "linux/x86_64"
+                ]
             }
         }
     }
