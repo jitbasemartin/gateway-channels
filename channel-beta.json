@@ -1,13 +1,13 @@
 [
     {
         "metadata": {
-            "name": "gateway-builder-v0.0.0-bdce649-dev"
+            "name": "gateway-builder-v0.0.0-f7c9ecb-dev"
         },
         "spec": {
-            "version": "v0.0.0-bdce649-dev",
+            "version": "v0.0.0-f7c9ecb-dev",
             "type": "iso",
             "metadata": {
-                "uri": "registry.hub.docker.com/jitbase/gateway-builder:0.0.0-bdce649-dev",
+                "uri": "registry.hub.docker.com/jitbase/gateway-builder:0.0.0-f7c9ecb-dev",
                 "displayName": "Gateway builder",
                 "platforms": [
                     "linux/x86_64"
