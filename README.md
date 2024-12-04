@@ -1,2 +1,5 @@
-# gateway-channels
-Images channel for Gateway
+# Gateway channels
+
+> Images channel for Gateway
+
+For development purpose only...
